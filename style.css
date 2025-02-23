@@ -53,9 +53,9 @@ body article {
   top: -50%;
   width: 200%;
   height: 200%;
-  background-image: url("https://scary.land/images/codepen%20swiper/fish%20background.jpg");
-  background-size: cover;
-  background-position: top center;
+  background-image: url("images/background.jpg");
+  /* background-size: cover; */
+  background-position: center;
   background-repeat: no-repeat;
 }
 
